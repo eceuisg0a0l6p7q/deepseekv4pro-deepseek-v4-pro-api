@@ -1,0 +1,14 @@
+{
+  "repo": "deepseekv4pro-deepseek-v4-pro-api",
+  "model": "deepseek-v4-pro",
+  "display": "DeepSeek V4 Pro",
+  "variant": "llm",
+  "snapshot": "2026-09-24",
+  "unit": "usd_per_million_tokens",
+  "tiers": {
+    "input": 1.0285712,
+    "cached_input": 0.2057144,
+    "output": 3.0857144
+  },
+  "source": "https://apimart.ai/en/pricing"
+}
